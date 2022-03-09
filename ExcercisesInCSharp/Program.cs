@@ -18,10 +18,10 @@
         num1 = 1;num2 = 101;num3 = 1001;
         Console.WriteLine(num1);Console.WriteLine(num2);Console.WriteLine(num3);
 
-        //Exercise 8
+        //Exercise 8: A program to print the current date and time on the console
         Console.WriteLine("\n\n\n" + DateTime.Now);
 
-        //Exercise 9
+        //Exercise 9: A program to print out the square root of 12345
         Console.WriteLine("\n\n\n" + Math.Sqrt(12345)+"\n\n\n");
 
         //Exercise 11
